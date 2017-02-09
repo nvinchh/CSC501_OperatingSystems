@@ -1,0 +1,11 @@
+The .tar file contains
+
+main.c
+parse.c
+parse.h
+Makefile
+Readme
+
+
+References: Discussed the concept of pipe and approach with Krishna Pokharel, and Ronak Ghadiya. Referred to various man pages to figure out approach, and used stack overflow for debugging some errors that came up.
+
