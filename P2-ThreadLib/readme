@@ -1,0 +1,13 @@
+This .tar file contains
+Makefile
+mythread.c
+mythread.h
+
+References:
+http://pubs.opengroup.org/onlinepubs/7908799/xsh/ucontext.h.html
+https://linux.die.net/man/3/swapcontext
+http://man7.org/linux/man-pages/man3/makecontext.3.html
+http://man7.org/linux/man-pages/man3/getcontext.3.html
+
+Apart from the above man pages, discussed context switching with Nitin Ramchandani and Krishna Pokharel
+Also discussed queues in C.
